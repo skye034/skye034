@@ -1,3 +1,5 @@
+
+## Hi there 👋
 ### ⚡ About Me
 
 * 👋 **Hi, I'm Rupesh Chaudhary**
@@ -7,7 +9,7 @@
 * 🤝 **Seeking guidance in:** C Programming | Python | Data Visualization
 * 🌱 **Currently learning:** Programming and Design
 * 🎯 **Goal:** To improve my technical and creative skills through continuous learning and practical projects
-## Hi there 👋
+
 
 <!--
 **skye034/skye034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
