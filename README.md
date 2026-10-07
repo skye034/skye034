@@ -1,3 +1,12 @@
+### ⚡ About Me
+
+* 👋 **Hi, I'm Rupesh Chaudhary**
+* 🎓 **Currently:** Student
+* 💻 **Hobbies:** Coding | Designing | Playing
+* ⚽ **Interests:** Football | Graphic Designing
+* 🤝 **Seeking guidance in:** C Programming | Python | Data Visualization
+* 🌱 **Currently learning:** Programming and Design
+* 🎯 **Goal:** To improve my technical and creative skills through continuous learning and practical projects
 ## Hi there 👋
 
 <!--
